@@ -1,1 +1,1 @@
-declare module "gsap-trial/SplitText";
+import { SplitText } from "gsap/SplitText";
